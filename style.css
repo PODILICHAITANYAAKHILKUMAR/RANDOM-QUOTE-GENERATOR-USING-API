@@ -1,0 +1,38 @@
+body{
+  background:#f52eda
+}
+.container{
+  position: relative;
+  top: 100px;
+}
+h4{
+  color:red;
+}
+h3{
+  color:blue;
+}
+.card{
+  background: #e2f3f5;
+  width: 800px;
+  font-size: 26px;
+  border-radius: 10px;
+  padding: 30px 20px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.5;
+}
+.card p{
+  font-size: 18px;
+  font-weight: 800;
+  
+}
+.card button{
+  width: 250px;
+  height: 55px;
+  font-size: 22px;
+  border: none;
+  background: #5677e2;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
